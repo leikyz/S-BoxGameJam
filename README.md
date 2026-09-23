@@ -6,9 +6,9 @@ I was responsible for the overall game architecture and networking, including th
 
 My contributions:
 
-Designed and implemented the overall game architecture
-Implemented the complete round and game loop system
-Managed player-state and game-state synchronization
-Integrated and coordinated the different gameplay systems within s&box
+* Designed and implemented the overall game architecture
+* Implemented the complete round and game loop system
+* Managed player-state and game-state synchronization
+* Integrated and coordinated the different gameplay systems within s&box
 
-The project was built from scratch under a one-week development constraint, with a strong focus on multiplayer architecture, synchronization, and delivering a playable experience within a very limited timeframe
+The project was built from scratch under a one-week development constraint, with a strong focus on multiplayer architecture, synchronization, and delivering a playable experience within a very limited timeframe.
